@@ -12,5 +12,33 @@
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('pages.index');
 });
+
+Route::get('/', function () {
+    return view('pages.aboutus');
+});
+
+Route::get('/', function () {
+    return view('pages.services');
+});
+
+
+Route::get('/', function () {
+    return view('pages.portifolio');
+});
+
+
+Route::get('/', function () {
+    return view('pages.client');
+});
+
+Route::get('/', function () {
+    return view('pages.team');
+});
+
+//Route::get('/', function () {
+//    return view('pages.contact');
+//});
+
+
