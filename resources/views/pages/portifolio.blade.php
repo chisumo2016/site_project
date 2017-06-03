@@ -1,8 +1,8 @@
-@extends('layouts.main')
+{{--@extends('layouts.main')--}}
 
-@include('partials.header')
+{{--@include('partials.header')--}}
 
-@section('content')
+{{--@section('content')--}}
 
     <!-- Portfolio -->
     <section id="Portfolio" class="content">
@@ -157,4 +157,4 @@
     </section>
     <!--/Portfolio -->
 
-@endsection
+{{--@endsection--}}

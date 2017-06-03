@@ -1,8 +1,8 @@
-@extends('layouts.main')
+{{--@extends('layouts.main')--}}
 
-@include('partials.header')
+{{--@include('partials.header')--}}
 
-@section('content')
+{{--@section('content')--}}
     <section class="page_section team" id="team"><!--main-section team-start-->
         <div class="container">
             <h2>Team</h2>
@@ -58,4 +58,4 @@
     </section>
     <!--/Team-->
 
-@endsection
+{{--@endsection--}}

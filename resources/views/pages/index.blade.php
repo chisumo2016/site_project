@@ -1,8 +1,8 @@
-@extends('layouts.main')
+{{--@extends('layouts.main')--}}
 
-@include('partials.header')
+{{--@include('partials.header')--}}
 
-@section('content')
+{{--@section('content')--}}
     <!--Hero_Section-->
     <section id="hero_section" class="top_cont_outer">
         <div class="hero_wrapper">
@@ -24,6 +24,6 @@
         </div>
     </section>
     <!--Hero_Section-->
-@endsection
+{{--@endsection--}}
 
 

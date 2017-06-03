@@ -1,8 +1,8 @@
-@extends('layouts.main')
+{{--@extends('layouts.main')--}}
 
-@include('partials.header')
+{{--@include('partials.header')--}}
 
-@section('content')
+{{--@section('content')--}}
     <section id="aboutUs"><!--Aboutus-->
         <div class="inner_wrapper">
             <div class="container">
@@ -27,4 +27,4 @@
         </div>
     </section>
     <!--Aboutus-->
-@endsection
+{{--@endsection--}}

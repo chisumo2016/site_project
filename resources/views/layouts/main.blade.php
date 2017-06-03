@@ -21,7 +21,7 @@
 
 @yield('content')
 
-@include('partials.footer')
+@include('partials.footerPage')
 
 <script type="text/javascript" src="{{ url('js/jquery-1.11.0.min.js') }}"></script>
 <script type="text/javascript" src="{{ url('js/bootstrap.min.js') }}"></script>
