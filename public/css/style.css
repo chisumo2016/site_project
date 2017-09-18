@@ -98,6 +98,7 @@ p {
 #header_wrapper {
     background: #ffffff;
     padding: 20px 0px;
+    border-bottom:1px solid #DADADA;
 }
 
 .header_box {
@@ -304,7 +305,10 @@ a.read_more2:hover {
     padding: 60px 0px;
     background: #EFEFEF;
 }
-
+#contact {
+    padding: 60px 0px;
+    background: #EFEFEF;
+}
 .service_wrapper {
     padding: 40px 0 40px;
 }
@@ -763,7 +767,7 @@ img {
     color: #dd4b39;
 }
  
-#aboutUs {
+#about {
     padding: 60px 0;
 }
 
@@ -861,14 +865,14 @@ img {
     font-size: 24px;
     font-weight: 600;
     margin: 0 0 30px;
-    color: #fff;
+    color: #111111;
 }
 
 .contact_info p {
     line-height: 28px;
     display: block;
     font-size: 16px;
-    color: #ffffff;
+    color: #111111;
     margin: 0 0 30px;
 }
 
@@ -892,7 +896,7 @@ img {
     text-align: center;
     line-height: 50px;
     font-size: 25px;
-    color: #fff;
+    color: #111111;
 }
 
 .social_links li a:hover, .social_links li a:focus {
@@ -1638,10 +1642,10 @@ margin: 0 0 9px 0;
 .inner_section {
 padding: 20px 0 20px;
 }
-#aboutUs img{
+#about img{
 margin-bottom:20px;
 }
-#aboutUs h3{
+#about h3{
 font-size:16px;
 line-height:22px;
 }
