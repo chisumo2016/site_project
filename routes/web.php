@@ -37,6 +37,10 @@ Route::get('/', function () {
     return view('pages.home');
 });
 
+Route::get('/home', function () {
+    return view('index');
+});
+
 //Route::get('/', function () {
 //    return view('pages.contact');
 //});
